@@ -1,0 +1,5 @@
+C:\Users\micropro\Documents\SharpDevelop Projects\consoleApp1\consoleApp1\bin\Debug\consoleApp1.exe
+C:\Users\micropro\Documents\SharpDevelop Projects\consoleApp1\consoleApp1\bin\Debug\consoleApp1.pdb
+C:\Users\micropro\Documents\SharpDevelop Projects\consoleApp1\consoleApp1\obj\Debug\consoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\micropro\Documents\SharpDevelop Projects\consoleApp1\consoleApp1\obj\Debug\consoleApp1.exe
+C:\Users\micropro\Documents\SharpDevelop Projects\consoleApp1\consoleApp1\obj\Debug\consoleApp1.pdb
