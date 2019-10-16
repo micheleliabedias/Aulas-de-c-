@@ -1,0 +1,5 @@
+C:\Users\micropro\Documents\SharpDevelop Projects\vetor\vetor\bin\Debug\vetor.exe
+C:\Users\micropro\Documents\SharpDevelop Projects\vetor\vetor\bin\Debug\vetor.pdb
+C:\Users\micropro\Documents\SharpDevelop Projects\vetor\vetor\obj\Debug\vetor.csprojResolveAssemblyReference.cache
+C:\Users\micropro\Documents\SharpDevelop Projects\vetor\vetor\obj\Debug\vetor.exe
+C:\Users\micropro\Documents\SharpDevelop Projects\vetor\vetor\obj\Debug\vetor.pdb
